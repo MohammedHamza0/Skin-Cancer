@@ -1,0 +1,1 @@
+/kaggle/input/skin-cancer-malignant-vs-benign
